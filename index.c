@@ -55,7 +55,8 @@ void setup()  {
   }
   sd_file.close(); //closing the file
 } 
-In the loop function, we will open the SD card “data.txt” file again. If it is opened successfully we will call senddata() function, otherwise it will show ‘error opening file’ in the serial monitor.
+
+// In the loop function, we will open the SD card “data.txt” file again. If it is opened successfully we will call senddata() function, otherwise it will show ‘error opening file’ in the serial monitor.
 
 void loop()  {
   sd_file = SD.open("data.txt", FILE_WRITE);   //  Replace the file name(data.txt) with the file you want to log data to
