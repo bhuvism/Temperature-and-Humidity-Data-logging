@@ -1,12 +1,17 @@
 # Temperature-and-Humidity-Data-logging
 Temperature and Humidity Data logging to SD card using SD card module and Arduino UNO
 
-# Components required
+### Components required
   1.Arduino Uno
+  
   2.SD Card Module
+  
   3.DHT22/DHT11 Temperature and Humidity Sensor
+  
   4.SD Card (Higher than 8GB)
+  
   5.Breadboard(if required)
+  
   6.Connecting wires
   
 # Prerequisites:
