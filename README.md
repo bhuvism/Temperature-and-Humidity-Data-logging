@@ -38,7 +38,7 @@ Temperature and Humidity Data logging to SD card using SD card module and Arduin
  
  6. CS of module to pin 10 of Arduino
  
- Then we can connect the DHT22/DHT11 to the Arduino UNO
+ Then we can connect the DHT22/DHT11 Sensor to the Arduino UNO
  
  1. Connect VCC of DHT22 to 5V output of Arduino
  
