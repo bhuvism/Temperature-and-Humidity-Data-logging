@@ -14,7 +14,7 @@ Temperature and Humidity Data logging to SD card using SD card module and Arduin
   
   6. Connecting wires
   
-### Prerequisites:
+### Pre-requisites:
  1. Arduino IDE [get it here](https://arduino.en.softonic.com/)
  
  2. You need to manually add DHT library to Arduino IDE as it is not included by default. You can ignore it if you have already included it. Otherwise you can do it following the     steps below.<br>
